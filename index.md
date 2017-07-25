@@ -7,11 +7,13 @@ image:
 
 <meta name="keywords" content="{{ site.tags | join: ', ' }}">
 
-<p>Situ&eacute; en face du Palais de justice de Grasse, le Cabinet a pour activit&eacute; dominante le <strong>droit du travail </strong>et le droit de la <strong>s&eacute;curit&eacute; sociale</strong>. Il intervient &eacute;galement dans d'autres domaines tels que le <strong>droit civil g&eacute;n&eacute;ral</strong>.</p>
-<p>Le Cabinet conseille, assiste ou repr&eacute;sente les <strong>entreprises</strong> et les <strong>particuliers</strong> devant les juridictions de <strong>premi&egrave;re instance</strong> et d&rsquo;<strong>appel, </strong>sur tout le<strong> territoire national</strong>.</p>
-<p>En particulier, Nathalie Brackmann a une solide exp&eacute;rience du<strong> conseil aux entreprises </strong>en raison de sa pratique du droit social durant de nombreuses ann&eacute;es au sein du barreau de Paris, dans des cabinets d&rsquo;affaires de premier plan.</p>
-<p>Sa pratique courante de l'<strong>anglais </strong>et l'<strong>espagnol</strong> lui permet d'offrir un service privil&eacute;gi&eacute; aux soci&eacute;t&eacute;s &eacute;trang&egrave;res pr&eacute;sentes en France, aux filiales fran&ccedil;aises de groupes internationaux ainsi qu'aux particuliers &eacute;trangers d&eacute;sirant &eacute;changer dans une de ces deux langues.</p>
+<p>Located opposite the Palais de Justice in Grasse, the main activity of the Cabinet is labor law and social security law. It also intervenes in other areas such as general civil law.</p>
 
+<p>The firm advises, assists or represents companies and individuals before the courts of first instance and appeal, throughout the national territory.</p>
+
+<p>In particular, Nathalie Brackmann has extensive experience in corporate counseling because of her practice in the field of labor law for many years at the Paris Bar in leading business firms.</p>
+
+<p>His current practice of English and Spanish allows him to offer a privileged service to foreign companies present in France, French subsidiaries of international groups as well as foreign individuals wishing to exchange in one of these two languages.</p>
 
 <div class="tile">
       	<div class="span4">
