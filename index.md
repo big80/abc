@@ -7,13 +7,15 @@ image:
 
 <meta name="keywords" content="{{ site.tags | join: ', ' }}">
 
-<p>Located opposite the Palais de Justice in Grasse, the main activity of the Cabinet is labor law and social security law. It also intervenes in other areas such as general civil law.</p>
+<p>The law firm is located in front of the Regional Court - Tribunal de Grande Instance - in Grasse.</p>
 
-<p>The firm advises, assists or represents companies and individuals before the courts of first instance and appeal, throughout the national territory.</p>
+<p>Its main practice area is Labour, Employment and Benefits Law.</p>
 
-<p>In particular, Nathalie Brackmann has extensive experience in corporate counseling because of her practice in the field of labor law for many years at the Paris Bar in leading business firms.</p>
+<p>The firm advises and represents companies and individuals in legal proceedings before labour courts and courts of appeal.</p>
 
-<p>His current practice of English and Spanish allows him to offer a privileged service to foreign companies present in France, French subsidiaries of international groups as well as foreign individuals wishing to exchange in one of these two languages.</p>
+<p>Nathalie Brackmann has extensive experience in advising companies due to her practice of Labour, Employment and Benefits Law for many years in leading business law firms, as a member of the Paris Bar.</p>
+
+<p>Her fluent practice of English and Spanish also allows her to offer high quality advice to foreign companies as well as to foreign individuals wishing to communicate in one of these two languages.</p>
 
 <div class="tile">
       	<div class="span4">
