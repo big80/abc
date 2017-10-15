@@ -1,38 +1,36 @@
 ---
 layout: tab
-title: "Activit&eacute; dominante"
+title: "Main area of practice"
 modified:
 excerpt:
-tags: [specialit&eacute; 'droit social' r&eacute;gion PACA Grasse Antibes Valbonne Mougins Biot Vallauris Sophia Antipolis Nice Cannes]
+tags: ['employment law' 'labor law' PACA region Grasse Antibes Valbonne Mougins Biot Vallauris Sophia Antipolis Nice Cannes]
 image:
   feature: brackmann-competences-1920x850.jpg
 ---
 
-Le Cabinet a pour activit&eacute; dominante le droit social, incluant les relations individuelles et collectives du travail ainsi que le droit de la s&eacute;curit&eacute; sociale.
+The law firm is mainly practicing Labour, Employment and Benefits Law.
+Here are some of the main issues the firm is to deal with :
 
-Les principaux domaines d&rsquo;intervention du Cabinet :
+- Hiring (temporary work, fixed-term contracts, permanent contracts, etc.)
+- Amendment of employment contract
+- Disciplinary proceedings (dismissal for misconduct, etc.)
+- Occupational disease or accident
+- Redundancy (economic reasons)
+- Dismissal for personal reasons
+- Amicable terminations
+- Other terminations (resignation, etc.)
+- Requalification of fixed-term contracts
+- Settlement agreements
+- Employees' representatives, works council (election, etc.)
+- Rules of Procedure
+- Collective bargaining agreements
+- Profit-sharing schemes
+- URSSAF control
+- Psychological or sexual harassment
+- Discrimination
+- Unfair competition
 
-- Embauche (int&eacute;rim, CDD, CDI, contrats d&rsquo;apprentissage, etc.)
-- Modification du contrat de travail 
-- Proc&eacute;dures disciplinaires (avertissement, mise &agrave; pied, licenciement pour faute, etc.)
-- Proc&eacute;dures d&rsquo;inaptitude (accident du travail, maladie professionnelle, inaptitude non-professionnelle)
-- Licenciements pour motif &eacute;conomique
-- Licenciements pour motif personnel
-- Ruptures conventionnelles
-- Autres modes de rupture du contrat de travail (d&eacute;mission, r&eacute;siliation judiciaire, prise d'acte)
-- Requalification de CDD en CDI
-- Transactions
-- Gestion des institutions repr&eacute;sentatives du personnel (DP, CE, CHSCT)
-- Elections professionnelles
-- R&egrave;glement int&eacute;rieur
-- Accords collectifs
-- Epargne salariale (int&eacute;ressement, participation, etc.)
-- Contr&ocirc;le URSSAF
-- Harc&egrave;lement (moral, sexuel)
-- Discrimination (syndicale, en raison de l'&eacute;tat de sant&eacute;, etc.) 
-- Concurrence d&eacute;loyale
+The main situations the firm is to deal with :
 
-Les principales situations dans lesquelles le Cabinet est amen&eacute; &agrave; intervenir :
-
-- <a href="{{ site.url }}/entreprises/" >Aupr&egrave;s des entreprises</a>
-- <a href="{{ site.url }}/particuliers/" >Aupr&egrave;s des particuliers</a>
+- <a href="{{ site.url }}/entreprises/" >For companies</a>
+- <a href="{{ site.url }}/particuliers/" >For individuals</a>
