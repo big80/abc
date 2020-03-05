@@ -7,7 +7,7 @@ image:
 
 <meta name="keywords" content="{{ site.tags | join: ', ' }}">
 
-<p>The law firm is located in front of the Regional Court - Tribunal de Grande Instance - in Grasse.</p>
+<p>The law firm is located in the city center of Cannes.</p>
 
 <p>Its main practice area is Labour, Employment and Benefits Law.</p>
 
