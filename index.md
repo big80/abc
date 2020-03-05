@@ -23,8 +23,8 @@ image:
     		<br>
           <strong>Me Nathalie Brackmann</strong><br>
           <strong>Cabinet d'Avocats</strong><br>
-    			78 Avenue Pierre Semard<br>
-    			06130 Grasse<br>
+    			35 Boulevard Carnot<br>
+    			06400 Cannes<br>
     			France<br>
 			    Tel. : <a href="tel:+33763501488">07 63 50 14 88</a><br>
           E-mail : <a href="mailto:avocat@brackmann.fr">avocat@brackmann.fr</a>
